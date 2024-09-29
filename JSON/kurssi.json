@@ -1,0 +1,26 @@
+{
+    "toteutuksenNimi": "Digitekiikat",
+    "osallistujatLkm": 5,
+    "osallistujat": [
+      {
+        "nimi": "Matti Möttönen"
+      },
+      {
+        "nimi": "Minna Möttöen"
+      },
+      {
+        "nimi": "Laura Lahtinen"
+      },
+      {
+        "nimi": "Jenni Jokinen"
+      },
+      {
+        "nimi": "Karoliina Korohonen"
+      }
+    ],
+    "alkamisaika": "2024-08-19",
+    "loppumisaika": "2024-10-13",
+    "kestoViikkoina": 8,
+    "kuva": "kuva.json.png"
+  }
+  
